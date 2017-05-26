@@ -4,13 +4,13 @@
 - Travel throughout Africa, Europe, North America and South Pacific.
 - Training of engineers and operators in a classroom setting both locally and abroad.
 - Responsible for the design, installation, acceptance testing of entire cellular systems, including:
-- - Voice and SS7 signaling over IP
-- - IP networking, routing, gateways, firewalls, layer three switches
-- - PCM voice and signaling
-- - RF engineering, optimization and drive testing, determining link budgets
-- - Media mixing/routing/patching and signaling gateways
-- - Mechanical and electrical installations
-- - Fiber and terrestrial RF backhauls as well as satellite links for signaling and media
+ - Voice and SS7 signaling over IP
+ - IP networking, routing, gateways, firewalls, layer three switches
+ - PCM voice and signaling
+ - RF engineering, optimization and drive testing, determining link budgets
+ - Media mixing/routing/patching and signaling gateways
+ - Mechanical and electrical installations
+ - Fiber and terrestrial RF backhauls as well as satellite links for signaling and media
 - Became very proficient working with Solaris and Oracle.  Implemented a more Agile approach by creating a standard trace/log/core collection system to increase efficiency of collaboration between Engineering and development. 
 
 
